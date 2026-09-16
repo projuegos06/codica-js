@@ -1,0 +1,12 @@
+{
+  "name": "codica-js",
+  "version": "1.0.0",
+  "description": "Mi primer proyecto en Códica",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Alucard",
+  "license": "MIT"
+}
