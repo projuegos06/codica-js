@@ -1,3 +1,3 @@
-import _ from 'lodash';
+import _ from "lodash";
 
-console.log(_.last(['uno', 'dos']));
+console.log(_.last(["uno", "dos"]));

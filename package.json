@@ -2,14 +2,17 @@
   "name": "codica-js",
   "version": "1.0.0",
   "description": "Mi primer proyecto en Códica",
-  "main": "index.js",
+  "license": "MIT",
+  "author": "Alucard",
   "type": "module",
+  "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Alucard",
-  "license": "MIT",
   "dependencies": {
     "lodash": "^4.18.1"
+  },
+  "devDependencies": {
+    "oxfmt": "^0.68.0"
   }
 }
